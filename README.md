@@ -1,4 +1,5 @@
-# 👋 Hi there! I'm Krunal Bhadesiya, a passionate Full Stack Developer, Ui/Ux Designer, and IT Engineer.
+# 👋 Hi there! I'm Krunal Bhadesiya, 
+# Full Stack Developer || Ui/Ux Designer || IT Engineer.
 
 ## Contact
 - 📞 **Phone:** +91 9725636621
