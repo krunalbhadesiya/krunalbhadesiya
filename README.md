@@ -8,7 +8,7 @@
 
 ## Experience
 - **Web Developer Intern**
-  - *9 Apple Web, Ahmadabad*
+  - *9 Apple Web*
   - 📍 Ahmadabad
   - *January 2024 – May 2024*
 
