@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+"""
 {
   "greeting": "👋 Hi there! I'm Krunal Bhadesiya, a passionate Full Stack Developer, Ui/Ux Designer, and IT Engineer.",
   "name": "Krunal Bhadesiya",
@@ -81,4 +81,4 @@
   }
 }
 
--->
+"""
