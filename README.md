@@ -3,7 +3,7 @@
 
 ## Contact
 - 📞 **Phone:** +91 9725636621
-- ✉️ **Email:** krunalbhadesioya.social@gmail.com
+- ✉️ **Email:** krunalbhadesioya.it@gmail.com
 - 🌐 **Website:** [krunalbhadesiya.github.io](https://krunalbhadesiya.github.io)
 
 ## Experience
