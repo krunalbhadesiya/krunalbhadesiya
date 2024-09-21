@@ -4,13 +4,7 @@
 ## Contact
 - 📞 **Phone:** +91 9725636621
 - ✉️ **Email:** krunalbhadesioya.it@gmail.com
-- 🌐 **Website:** [krunalbhadesiya.github.io](https://krunalbhadesiya.github.io)
-
-## Experience
-- **Web Developer Intern**
-  - *9 Apple Web*
-  - 📍 Ahmadabad
-  - *January 2024 – May 2024*
+- 🌐 **Website:** [krunalbhadesiya.vercel.app](https://krunalbhadesiya.vercel.app/)
 
 ## Education
 - 🎓 **B.Tech in IT**
