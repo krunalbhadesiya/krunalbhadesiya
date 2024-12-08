@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Krunal Bhadesiya, 
-# Software Enginee || MERN Stack || NextJS 
+# Software Engineer || MERN Stack Developer || NextJS Developer 
 
 ## Contact
 - 📞 **Phone:** +91 9725636621
