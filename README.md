@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Krunal Bhadesiya, 
-# Full Stack Developer || Ui/Ux Designer || IT Engineer.
+# Software Enginee || MERN Stack || NextJS 
 
 ## Contact
 - 📞 **Phone:** +91 9725636621
@@ -25,26 +25,35 @@
   - *Google*
   - 📅 December 2023 - January 2024
 
-## Projects
-- 💼 **9 Digi Biz**
-  - *Objective:* Create a digital business card and establish a strong online presence for individuals or businesses.
-  - *Technology:* HTML, CSS, JavaScript, React
-  - *Description:* Developed a responsive digital business card platform with interactive UI/UX, optimized for mobile and desktop.
-- 📧 **PG Mail**
-  - *Objective:* Develop a client email web application with a user-friendly interface.
-  - *Technology:* JavaScript, Node.js, React, RESTful APIs, MongoDB, SQL
-  - *Description:* Created a user-friendly email web app using Node.js and React, ensuring responsive design and efficient data management.
-- 🌐 **Lotus Group Website**
-  - *Objective:* Build a comprehensive MERN stack website for an IT company.
-  - *Technology:* MERN stack, MongoDB, Express.js, React.js, Node.js, ShadCn, Tailwind CSS
-  - *Description:* Built a full-stack website using the MERN stack, integrating ShadCn with Tailwind CSS for a sleek, professional design.
 
-## Skills
-- **Web Development:** HTML & CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, WordPress
-- **Backend Development:** Node.js, MongoDB, MySQL, Express.js
-- **Cross-Platform App Development:** Flutter, Tauri
-- **DevOps & Version Control:** Git, GitHub, Linux
-- **Design & Prototyping:** Figma, UI/UX Design
-- **Programming Languages:** Python, Rust
-- **Tools & IDEs:** VS Code, Android Studio, IDX
-- **Deployment:** Vercel
+## 📂 Projects  
+
+### [Task Buddy (Jira Clone)](https://github.com/krunalbhadesiya/task-buddy)  
+A robust task management platform for seamless team collaboration and workflow optimization.  
+- **Tech Stack**: Next.js, TypeScript  
+
+### [Exam Management System](https://github.com/krunalbhadesiya/exam-management-system-frontend)  
+A digital solution for planning and managing exams, enhancing efficiency for educational institutions.  
+- **Tech Stack**: MongoDB, React.ts, Express, Node, Tailwind CSS, ShadCN UI  
+
+### [Trendy Closet](https://trendy-closet.vercel.app)  
+An e-commerce app for selling t-shirts with user authentication, shopping cart, and admin dashboard functionalities.  
+- **Tech Stack**: React, Tailwind CSS, Node.js, Express.js, MongoDB  
+
+
+
+## 🎖️ Achievements  
+
+- Selected for participation in the **State Level Science Fair** by GCERT (2019) and NCSC (2020)  
+- Represented in the **State Level Rural IT Quiz Program** by GUJCOST (2021)  
+
+
+
+## 🔧 Technical Skills  
+
+- **Languages**: JavaScript, TypeScript, Python, Java, Dart  
+- **Frontend**: HTML, CSS, React.js, Next.js, Tailwind CSS, Figma  
+- **Backend**: Node.js, Express.js  
+- **Databases**: MongoDB, MySQL  
+- **Tools & Platforms**: Git, GitHub, Vercel, Linux  
+- **Others**: Agile Methodologies, WordPress, Cross-Platform Development  
