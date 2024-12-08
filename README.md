@@ -14,16 +14,6 @@
   - *Sarthak Vidhya Mandir, Morbi*
   - 📍 June 2020 – May 2021
 
-## Certifications
-- **Foundations of User Experience (UX) Design**
-  - *Google*
-  - 📅 October 2023 - November 2023
-- **React Basics**
-  - *Meta*
-  - 📅 November 2023 - December 2023
-- **Google Cybersecurity**
-  - *Google*
-  - 📅 December 2023 - January 2024
 
 
 ## 📂 Projects  
@@ -47,6 +37,16 @@ An e-commerce app for selling t-shirts with user authentication, shopping cart, 
 - Selected for participation in the **State Level Science Fair** by GCERT (2019) and NCSC (2020)  
 - Represented in the **State Level Rural IT Quiz Program** by GUJCOST (2021)  
 
+## Certifications
+- **Foundations of User Experience (UX) Design**
+  - *Google*
+  - 📅 October 2023 - November 2023
+- **React Basics**
+  - *Meta*
+  - 📅 November 2023 - December 2023
+- **Google Cybersecurity**
+  - *Google*
+  - 📅 December 2023 - January 2024
 
 
 ## 🔧 Technical Skills  
