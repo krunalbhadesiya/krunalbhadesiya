@@ -2,7 +2,6 @@
 # Software Engineer || MERN Stack Developer || NextJS Developer 
 
 ## Contact
-- 📞 **Phone:** +91 9725636621
 - ✉️ **Email:** krunalbhadesioya.it@gmail.com
 - 🌐 **Website:** [krunalbhadesiya.vercel.app](https://krunalbhadesiya.vercel.app/)
 
